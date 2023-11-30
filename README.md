@@ -9,7 +9,8 @@ Key Achievements
 
     2. Data Integration: Data was sourced from disparate locations, including Excel/CSV files and a MySQL database, and seamlessly integrated into Power BI for comprehensive analysis.
 
-    3. Data Model and Visualizations: A robust data model was developed within Power BI, enabling the creation of visually appealing and interactive visualizations to represent key performance indicators (KPIs).
+    3. Data Model and Visualizations: A robust data model was developed within Power BI, enabling the creation of visually appealing and interactive visualizations to represent key 
+       performance indicators (KPIs).
 
     4. Performance Optimization: The dashboard's performance was significantly improved using DAX Studio, resulting in a 5% increase in report efficiency.
 
